@@ -17,14 +17,13 @@
 - 維持高強度練習，追求程式基礎的反射動作
 - 目標：結訓後成為全端/後端軟體工程師
 
-## 技術棧
+## Tech Stack
 
-- **語言**：Java、HTML、CSS、TypeScript、JavaScript
-- **框架**：Angular、Spring Boot
-- **資料庫**：MySQL、JDBC、JPA
-- **工具**：IntelliJ IDEA、VS Code、Git、OpenCode
-- **環境**：macOS、JDK 17
-- **部署**：Vercel、GitHub Pages
+- **Languages**: Java, TypeScript, JavaScript, HTML, CSS
+- **Frameworks**: Angular, Spring Boot
+- **Database**: MySQL, SQL, JPA, JDBC
+- **Tools & Environment**: Git, IntelliJ, VS Code, OpenCode, macOS, JDK 17
+- **Deployment**: Vercel, GitHub Pages
 
 ## 訓練足跡（5/25 至今）
 
