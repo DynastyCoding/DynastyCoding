@@ -3,11 +3,11 @@
 - **Education** :
   - M.A. in Finance, National Cheng Kung University (NCKU)
   - B.A. in History, National Cheng Kung University (NCKU)
-  - 
+    
 - **Experience** :
   - Gas Station Manager, 2.5 years
   - Responsible for team management, daily operations, and customer complaint handling.
-  - 
+    
 - **Current** :
   - Full-Stack Developer in training
 
